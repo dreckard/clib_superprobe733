@@ -1,0 +1,7 @@
+.objs
+bin
+*.cbp
+*.dev
+*.layout
+*.mak
+*.depend
